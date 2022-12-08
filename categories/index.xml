@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ShadowBlog</title>
-    <link>https://S-hadow.github.io/categories/</link>
-    <description>Recent content in Categories on ShadowBlog</description>
+    <title>Categories on MeiK&#39;s blog</title>
+    <link>https://meik2333.com/categories/</link>
+    <description>Recent content in Categories on MeiK&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Jul 2019 15:43:45 +0800</lastBuildDate><atom:link href="https://S-hadow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>技术</title>
-      <link>https://S-hadow.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
-      <pubDate>Mon, 22 Jul 2019 15:43:45 +0800</pubDate>
-      
-      <guid>https://S-hadow.github.io/categories/%E6%8A%80%E6%9C%AF/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>生活</title>
-      <link>https://S-hadow.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 22 Jul 2019 15:43:45 +0800</pubDate>
-      
-      <guid>https://S-hadow.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="https://meik2333.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
